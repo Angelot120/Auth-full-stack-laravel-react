@@ -1,0 +1,10 @@
+
+
+.button{
+    padding: 10px;
+    border-radius: 5px;
+    border: rgb(88, 88, 88) solid 1px;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}

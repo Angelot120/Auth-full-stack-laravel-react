@@ -1,0 +1,22 @@
+export default function App(){
+
+  // const [level, setLevel] = useState(0)
+
+  return(
+  //   <div className="">
+  //     <h1>Niveau { level }</h1>
+  //     {/* <button onClick={() =>{setLevel((level)=>level + 1)}}>Incrémenter</button> */}
+  //     {/* <Button text= "Incrémenter" onClick={() =>{setLevel((level)=>level + 1)}}/> */}
+  //     <Button text= "Incrémenter" onClick={() =>{
+  //       setLevel((level)=>{
+  //       return level >= 10 ? level : level + 1
+  //     })}}/>
+  //     <br />
+  //     <Button text = "Décrémenter" onClick={() =>{setLevel(
+  //       (level)=>{
+  //         return level <= 0 ? level : level - 1
+  //       }
+  // )}}/>
+
+  //   </div>
+  )}
